@@ -1,0 +1,14 @@
+
+#box {
+    padding: 1px 11px 11px 11px;
+    font-family: Caviar Dreams;
+
+}
+
+li {
+font-family: Helvetica;
+font-size: 120%;
+font-family: Caviar Dreams;    
+}
+@media screen and (max-width 500px)
+	
